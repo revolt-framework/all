@@ -1,0 +1,36 @@
+{
+  "name": "revolt.all",
+  "homepage": "https://github.com/revolt-framework/all",
+  "authors": [
+    {
+      "name": "Ruven Pelka",
+      "email": "ruven.pelka@gmail.com",
+      "homepage": "http://ruvenpelka.com"
+    }
+  ],
+  "description": "This module installs ALL of Revolt's modules for you.",
+  "main": "bower.json",
+  "keywords": [
+    "revolt",
+    "oocss",
+    "css",
+    "all"
+  ],
+  "dependencies": {
+    "revolt.settings.defaults": "*",
+    "revolt.tools.functions": "*",
+    "revolt.generic.normalize": "*",
+    "revolt.generic.reset": "*",
+    "revolt.generic.box-sizing": "*",
+    "revolt.generic.vertical-spacing": "*",
+    "revolt.base.root": "*",
+    "revolt.all": "*",
+    "revolt.base.hr": "*",
+    "revolt.base.lists": "*",
+    "revolt.base.responsive-images": "*",
+    "revolt.objects.list-bare": "*",
+    "revolt.objects.list-inline": "*",
+    "revolt.objects.media": "*"
+  },
+  "license": "MIT"
+}
