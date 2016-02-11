@@ -25,6 +25,7 @@
     "revolt.generic.vertical-spacing": "*",
     "revolt.base.root": "*",
     "revolt.all": "*",
+    "revolt.base.figure": "*",
     "revolt.base.hr": "*",
     "revolt.base.lists": "*",
     "revolt.base.responsive-images": "*",
