@@ -18,7 +18,9 @@
   ],
   "dependencies": {
     "revolt.settings.defaults": "*",
+    "revolt.settings.responsive": "*",
     "revolt.tools.functions": "*",
+    "revolt.tools.responsive": "*",
     "revolt.generic.normalize": "*",
     "revolt.generic.reset": "*",
     "revolt.generic.box-sizing": "*",
