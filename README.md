@@ -27,9 +27,9 @@ Here is an example of how to import all the modules:
     // Tools
     ////////////////////////////////////////////////////////////////////////////////
     
-    @import "../bower_components/revolt.tools.functions/tools.functions.scss";
+    @import "../bower_components/revolt.tools.functions/tools.functions";
     
-    @import "../bower_components/revolt.tools.responsive/tools.responsive.scss";
+    @import "../bower_components/revolt.tools.responsive/tools.responsive";
     
     
     
