@@ -19,6 +19,8 @@ Here is an example of how to import all the modules:
     
     @import "../bower_components/revolt.settings.defaults/settings.defaults";
     
+    @import "../bower_components/revolt.settings.spacing/settings.spacing";
+    
     @import "../bower_components/revolt.settings.responsive/settings.responsive";
     
     
@@ -28,6 +30,8 @@ Here is an example of how to import all the modules:
     ////////////////////////////////////////////////////////////////////////////////
     
     @import "../bower_components/revolt.tools.functions/tools.functions";
+    
+    @import "../bower_components/revolt.tools.spacing/tools.spacing";
     
     @import "../bower_components/revolt.tools.responsive/tools.responsive";
     

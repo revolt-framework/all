@@ -19,8 +19,10 @@
   "dependencies": {
     "revolt.settings.defaults": "*",
     "revolt.settings.responsive": "*",
+    "revolt.settings.spacing": "*",
     "revolt.tools.functions": "*",
     "revolt.tools.responsive": "*",
+    "revolt.tools.spacing": "*",
     "revolt.generic.normalize": "*",
     "revolt.generic.reset": "*",
     "revolt.generic.box-sizing": "*",
