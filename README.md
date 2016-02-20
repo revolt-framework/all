@@ -91,9 +91,9 @@ Here is an example of how to import all the modules:
     // Trumps
     ////////////////////////////////////////////////////////////////////////////////
     
-    @import "../bower_components/revolt.objects.media/trumps.spacing";
+    @import "../bower_components/revolt.trumps.spacing/trumps.spacing";
     
-    @import "../bower_components/revolt.objects.media/trumps.spacing-responsive";
+    @import "../bower_components/revolt.trumps.spacing-responsive/trumps.spacing-responsive";
     
     
     
