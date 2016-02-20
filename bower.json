@@ -34,7 +34,9 @@
     "revolt.base.responsive-images": "*",
     "revolt.objects.list-bare": "*",
     "revolt.objects.list-inline": "*",
-    "revolt.objects.media": "*"
+    "revolt.objects.media": "*",
+    "revolt.trumps.spacing": "*",
+    "revolt.trumps.spacing-responsive": "*"
   },
   "license": "MIT"
 }

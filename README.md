@@ -91,12 +91,14 @@ Here is an example of how to import all the modules:
     // Trumps
     ////////////////////////////////////////////////////////////////////////////////
     
-    //@import "trumps.demo";
+    @import "../bower_components/revolt.objects.media/trumps.spacing";
+    
+    @import "../bower_components/revolt.objects.media/trumps.spacing-responsive";
     
     
     
     ////////////////////////////////////////////////////////////////////////////////
-    // Scope
+    // Scopes
     ////////////////////////////////////////////////////////////////////////////////
     
-    //@import "scope.demo";
+    //@import "scopes.demo";
