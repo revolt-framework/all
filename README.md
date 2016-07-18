@@ -83,7 +83,7 @@ Here is an example of how to import all the modules:
     // Components
     ////////////////////////////////////////////////////////////////////////////////
     
-    //@import "components.demo";
+    @import "../bower_components/revolt.components.forms/components.forms";
     
     
     
