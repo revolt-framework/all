@@ -18,9 +18,7 @@ Here is an example of how to import all the modules:
     ////////////////////////////////////////////////////////////////////////////////
     
     @import "../bower_components/revolt.settings.defaults/settings.defaults";
-    
     @import "../bower_components/revolt.settings.spacing/settings.spacing";
-    
     @import "../bower_components/revolt.settings.responsive/settings.responsive";
     
     
@@ -30,9 +28,7 @@ Here is an example of how to import all the modules:
     ////////////////////////////////////////////////////////////////////////////////
     
     @import "../bower_components/revolt.tools.functions/tools.functions";
-    
     @import "../bower_components/revolt.tools.spacing/tools.spacing";
-    
     @import "../bower_components/revolt.tools.responsive/tools.responsive";
     
     
@@ -42,11 +38,8 @@ Here is an example of how to import all the modules:
     ////////////////////////////////////////////////////////////////////////////////
     
     @import "../bower_components/revolt.generic.normalize/generic.normalize";
-    
     @import "../bower_components/revolt.generic.reset/generic.reset";
-    
     @import "../bower_components/revolt.generic.box-sizing/generic.box-sizing";
-    
     @import "../bower_components/revolt.generic.vertical-spacing/generic.vertical-spacing";
     
     
@@ -56,13 +49,9 @@ Here is an example of how to import all the modules:
     ////////////////////////////////////////////////////////////////////////////////
     
     @import "../bower_components/revolt.base.root/base.root";
-    
     @import "../bower_components/revolt.base.figure/base.figure";
-    
     @import "../bower_components/revolt.base.hr/base.hr";
-    
     @import "../bower_components/revolt.base.lists/base.lists";
-    
     @import "../bower_components/revolt.base.responsive-images/base.responsive-images";
     
     
@@ -72,9 +61,7 @@ Here is an example of how to import all the modules:
     ////////////////////////////////////////////////////////////////////////////////
     
     @import "../bower_components/revolt.objects.list-bare/objects.list-bare";
-    
     @import "../bower_components/revolt.objects.list-inline/objects.list-inline";
-    
     @import "../bower_components/revolt.objects.media/objects.media";
     
     
@@ -92,9 +79,7 @@ Here is an example of how to import all the modules:
     ////////////////////////////////////////////////////////////////////////////////
     
     @import "../bower_components/revolt.trumps.spacing/trumps.spacing";
-    
     @import "../bower_components/revolt.trumps.spacing-responsive/trumps.spacing-responsive";
-    
     @import "../bower_components/revolt.trumps.visibility/trumps.visibility";
     
     
