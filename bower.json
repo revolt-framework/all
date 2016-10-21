@@ -32,6 +32,7 @@
     "revolt.base.hr": "0.1.x",
     "revolt.base.lists": "0.1.x",
     "revolt.base.responsive-images": "0.1.x",
+    "revolt.objects.grid": "0.1.x",
     "revolt.objects.list-bare": "0.1.x",
     "revolt.objects.list-inline": "0.1.x",
     "revolt.objects.media": "0.1.x",

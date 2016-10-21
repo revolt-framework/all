@@ -60,6 +60,7 @@ Here is an example of how to import all the modules:
     // Objects
     ////////////////////////////////////////////////////////////////////////////////
     
+    @import "../bower_components/revolt.objects.grid/objects.grid";
     @import "../bower_components/revolt.objects.list-bare/objects.list-bare";
     @import "../bower_components/revolt.objects.list-inline/objects.list-inline";
     @import "../bower_components/revolt.objects.media/objects.media";
