@@ -82,6 +82,7 @@ Here is an example of how to import all the modules:
     
     @import "../bower_components/revolt.trumps.spacing/trumps.spacing";
     @import "../bower_components/revolt.trumps.spacing-responsive/trumps.spacing-responsive";
+    @import "../bower_components/revolt.trumps.text/trumps.text";
     @import "../bower_components/revolt.trumps.visibility/trumps.visibility";
     
     

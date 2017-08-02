@@ -40,6 +40,7 @@
     "revolt.components.forms": "0.1.x",
     "revolt.trumps.spacing": "0.2.x",
     "revolt.trumps.spacing-responsive": "0.2.x",
+    "revolt.trumps.text": "0.1.x",
     "revolt.trumps.visibility": "0.1.x"
   },
   "license": "MIT"
